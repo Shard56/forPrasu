@@ -10,7 +10,10 @@
 
 body {
   min-height: 100vh;
-  background: #05353d;
+  background: url("https://raw.githubusercontent.com/Shard56/forPrasu/main/1725112074240.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .wrapper {
